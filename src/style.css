@@ -1,0 +1,38 @@
+.accueil {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background: url("../img/bg/tosyokan1.png") no-repeat;
+    background-size: cover;
+}
+.welcome {
+    color: #ffffff;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.minidesc {
+    color: #ffffff;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.navMenu {
+    flex-flow: column wrap;
+}
+.navMenu li{
+    list-style: none;
+}
+.navMenu li a {
+    color: #ffffff;
+    text-decoration: none;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.navMenu li:hover a {
+    background-color: #000000;
+}
