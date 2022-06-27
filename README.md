@@ -1,1 +1,2 @@
 # FrenchPuppetDex
+Challenge: No JSON
