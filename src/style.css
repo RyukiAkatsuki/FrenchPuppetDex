@@ -11,10 +11,12 @@
 .welcome {
     color: #ffffff;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 50px;
 }
 .minidesc {
     color: #ffffff;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 25px;
 }
 nav {
     display: flex;
@@ -27,6 +29,7 @@ nav {
 }
 .navMenu li{
     list-style: none;
+    font-size: 25px;
 }
 .navMenu li a {
     color: #ffffff;
@@ -35,4 +38,27 @@ nav {
 }
 .navMenu li:hover a {
     background-color: #000000;
+}
+table {
+    border: 1px solid #000000;
+}
+td {
+    border: 1px solid #000000;
+}
+.idLink {
+    display: flex;
+    flex-direction: column;
+}
+.tableseperator {
+    margin-top: 50px;
+}
+/* Types List TPDP & SoD */
+.fire {
+    background-color: #FF4949;
+}
+.void {
+    background-color: #FFBBE6;
+}
+.water {
+    background-color: #6884FF;
 }
