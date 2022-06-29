@@ -41,6 +41,7 @@ nav {
 }
 table {
     border: 1px solid #000000;
+    text-align: center;
 }
 td {
     border: 1px solid #000000;
@@ -52,13 +53,56 @@ td {
 .tableseperator {
     margin-top: 50px;
 }
+/* Stats Color */
 /* Types List TPDP & SoD */
-.fire {
-    background-color: #FF4949;
-}
 .void {
     background-color: #FFBBE6;
 }
+.fire {
+    background-color: #FF4949;
+}
 .water {
     background-color: #6884FF;
+}
+.nature {
+    background-color: #57DC4D;
+}
+.earth {
+    background-color: #C18458;
+}
+.steel {
+    background-color: #A2A2A2;
+}
+.wind {
+    background-color: #C1FF71;
+}
+.electric {
+    background-color: #FF8D1E;
+}
+.light {
+    background-color: #FEE85A;
+}
+.dark {
+    background-color: #585858;
+}
+.nether {
+    background-color: #675173;
+}
+.poison {
+    background-color: #AE66FF;
+}
+.fighting {
+    background-color: #FF6B22;
+}
+.illusion {
+    background-color: #FF71E9;
+}
+.sound {
+    background-color: #FFB400;
+}
+.warped {
+    background-color: #3A62C4;
+}
+.dream {
+    background-color: #F75B97;
 }
