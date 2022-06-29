@@ -1,2 +1,2 @@
 # FrenchPuppetDex
-Challenge: No JSON
+Challenge: No JSON, No SQL
