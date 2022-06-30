@@ -45,6 +45,7 @@ table {
 }
 td {
     border: 1px solid #000000;
+    padding: 10px;
 }
 .idLink {
     display: flex;
@@ -54,55 +55,81 @@ td {
     margin-top: 50px;
 }
 /* Stats Color */
+.foatk {
+    color: #F90127;
+}
+.spatk {
+    color: #3C00DA;
+}
+.spd {
+    color: #008000;
+}
 /* Types List TPDP & SoD */
 .void {
     background-color: #FFBBE6;
+    color: #000000;
 }
 .fire {
     background-color: #FF4949;
+    color: #000000;
 }
 .water {
     background-color: #6884FF;
+    color: #000000;
 }
 .nature {
     background-color: #57DC4D;
+    color: #000000;
 }
 .earth {
     background-color: #C18458;
+    color: #000000;
 }
 .steel {
     background-color: #A2A2A2;
+    color: #000000;
 }
 .wind {
     background-color: #C1FF71;
+    color: #000000;
 }
 .electric {
     background-color: #FF8D1E;
+    color: #000000;
 }
 .light {
     background-color: #FEE85A;
+    color: #000000;
 }
 .dark {
     background-color: #585858;
+    color: #FFFFFF;
 }
 .nether {
     background-color: #675173;
+    color: #FFFFFF;
 }
 .poison {
     background-color: #AE66FF;
+    color: #FFFFFF;
 }
 .fighting {
     background-color: #FF6B22;
+    color: #000000;
 }
 .illusion {
     background-color: #FF71E9;
+    color: #000000;
 }
 .sound {
     background-color: #FFB400;
+    color: #000000;
 }
 .warped {
     background-color: #3A62C4;
+    color: #FFFFFF;
 }
 .dream {
     background-color: #F75B97;
+    color: #000000;
 }
